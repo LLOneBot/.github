@@ -2,7 +2,7 @@
 
 <img src="https://luckylillia.com/logo.jpg" width="120" style="border-radius:50%" />
 
-# LLOneBot
+# LLBot
 
 **LLBot (LuckyLilliaBot / 幸运莉莉娅)** — 基于原版 NTQQ 的 QQ 机器人框架
 
@@ -21,7 +21,7 @@
 - **多平台** — 支持 Windows、Linux、macOS 部署，提供 Desktop、CLI、Docker 多种安装方式
 - **多协议** — 完整支持 OneBot 11、Satori、Milky 协议
 - **易管理** — 现代化 WebUI / GUI 可视化配置，无需手动编辑配置文件
-- **生态丰富** — 可对接 Koishi、NoneBot2、AstrBot、真寻Bot、云崽等主流框架
+- **生态丰富** — 可对接 Koishi、NoneBot2、AstrBot、真寻Bot、云崽、openclaw等主流框架
 - **开源免费** — 社区驱动，持续更新
 
 ## 快速开始
