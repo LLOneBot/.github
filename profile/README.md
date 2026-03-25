@@ -35,6 +35,7 @@
 | [LuckyLilliaBot](https://github.com/LLOneBot/LuckyLilliaBot) | LLBot 核心 |
 | [LuckyLillia.Desktop](https://github.com/LLOneBot/LuckyLilliaDesktop.Avalonia) | LLBot 桌面版 |
 | [LuckyLillia.CLI](https://github.com/LLOneBot/LuckyLillia.CLI) | LLBot 命令行版 |
+| [Yogurt-PMHQ](https://github.com/LLOneBot/yogurt-pmhq) | Kotlin 实现的 Milky 协议端|
 
 ## 社群
 
