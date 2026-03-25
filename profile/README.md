@@ -33,7 +33,8 @@
 | 仓库 | 说明 |
 |------|------|
 | [LuckyLilliaBot](https://github.com/LLOneBot/LuckyLilliaBot) | LLBot 核心 |
-| [LuckyLilliaDoc](https://github.com/LLOneBot/LuckyLilliaDoc) | 文档站源码 |
+| [LuckyLillia.Desktop](https://github.com/LLOneBot/LuckyLilliaDesktop.Avalonia) | LLBot 桌面版 |
+| [LuckyLillia.CLI](https://github.com/LLOneBot/LuckyLillia.CLI) | LLBot 命令行版 |
 
 ## 社群
 
