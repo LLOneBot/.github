@@ -4,7 +4,7 @@
 
 # LLBot
 
-**LLBot (LuckyLilliaBot / 幸运莉莉娅)** — 基于原版 NTQQ 的 QQ 机器人框架
+**LLBot (LuckyLilliaBot / 幸运莉莉娅)**
 
 让部署 QQ 机器人更简单、更高效
 
